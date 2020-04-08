@@ -41,47 +41,47 @@ INSTALASI :
 
    ├── _config
 
-   │   ├── db.php
+   │   	├── db.php
 
-   │   ├── enskripsi.php
+   │   	├── enskripsi.php
 
-   │   └── menu.php
+   │   	└── menu.php
 
    └── _tema
 
-   │	├── adminlte
+   │		├── adminlte
 
-   │    ├── dist    
+   │    	├── dist    
 
-   │    └── plugins
+   │    	└── plugins
 
-   │    └── adminlte.php
+   │    	└── adminlte.php
 
    ├── contoh_crud_mysql
 
-   │   └── master
+   │   	└── master
 
-   │       └── jurusan
+   │       	└── jurusan
 
-   │           ├── form.php
+   │           	├── form.php
 
-   │           ├── index.php
+   │           	├── index.php
 
-   │           └── proses.php
+   │           	└── proses.php
 
    ├── contoh_layout
 
-   │   ├── form_advance.php
+   │   	├── form_advance.php
 
-   │   ├── form_basic.php
+   │   	├── form_basic.php
 
-   │   ├── form_kosong.php
+   │   	├── form_kosong.php
 
-   │   ├── grafik.php
+   │   	├── grafik.php
 
-   │   ├── kosong.php
+   │   	├── kosong.php
 
-   │   └── tabel.php
+   │   	└── tabel.php
 
    ├── index.php
 

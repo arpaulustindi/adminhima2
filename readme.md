@@ -37,36 +37,34 @@ INSTALASI :
 
    Struktur Folder
 
-   `adminhima2`
-   `├── _config`
-   `│   ├── db.php`
-   `│   ├── enskripsi.php`
-   `│   └── menu.php`
+   adminhima2
+   ├── _config
+   │   ├── db.php
+   │   ├── enskripsi.php
+   │   └── menu.php
 
-   `└── _tema`
-   `│	├── adminlte`
-   `│    ├── dist    
-   │    └── plugins`
-   `│    └── adminlte.php`
+   └── _tema
+   │	├── adminlte
+   │    ├── dist    
+   │    └── plugins
+   │    └── adminlte.php
 
-   [^]: 
-
-   `├── contoh_crud_mysql`
-   `│   └── master`
-   `│       └── jurusan`
-   `│           ├── form.php`
-   `│           ├── index.php`
-   `│           └── proses.php`
-   `├── contoh_layout`
-   `│   ├── form_advance.php`
-   `│   ├── form_basic.php`
-   `│   ├── form_kosong.php`
-   `│   ├── grafik.php`
-   `│   ├── kosong.php`
-   `│   └── tabel.php`
-   `├── index.php`
-   `├── readme.md`
-
+   ├── contoh_crud_mysql
+│   └── master
+   │       └── jurusan
+   │           ├── form.php
+   │           ├── index.php
+   │           └── proses.php
+   ├── contoh_layout
+   │   ├── form_advance.php
+   │   ├── form_basic.php
+   │   ├── form_kosong.php
+   │   ├── grafik.php
+   │   ├── kosong.php
+   │   └── tabel.php
+   ├── index.php
+   ├── readme.md
+   
    ​       
 
 4. Tempatkan hasil extraksi di folder **htdocs**/**www** kalian
